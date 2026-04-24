@@ -74,7 +74,6 @@ module.exports = {
     "@typescript-eslint/no-unused-expressions": "error",
     "@typescript-eslint/prefer-function-type": "error",
     "@typescript-eslint/prefer-readonly": "error",
-    "@typescript-eslint/quotes": ["error", "single", { avoidEscape: true }],
     "arrow-body-style": ["error", "as-needed"],
     "babel/no-invalid-this": "error",
     "constructor-super": "error",
